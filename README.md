@@ -29,4 +29,4 @@ Date:   Sat Jul 23 09:06:21 2022 +0200
 
 
 
-
+### Kilka zmian 
