@@ -2,3 +2,6 @@
 
 
 # Zmiana 
+
+
+druga linia zdalnie
